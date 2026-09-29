@@ -1,2 +1,2 @@
-# Gentoo-install-
+# Gentoo-install
 Renny's Gentoo Install Tool
